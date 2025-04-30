@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Ámbitos de la tecnología</title>
+    <link>https://www.t3cnologility.com/</link>
+    <description>Novedades, análisis y lanzamientos de los diferentes campos de la tecnología</description>
+    <language>es</language>
+    <pubDate>Tue, 29 Apr 2025 16:40:57 GMT</pubDate>
+    <lastBuildDate>Tue, 29 Apr 2025 17:16:41 GMT</lastBuildDate>
+    <category domain="https://www.t3cnologility.com/">Ámbitos de la tecnología</category>
+    <generator>Absolute RSS Editor</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <image>
+      <url>https://previews.123rf.com/images/slena/slena1502/slena150200020/36651672-tecnolog%C3%ADa-innovaci%C3%B3n-logo-concepto.jpg</url>
+      <title>Ámbitos de la tecnología</title>
+      <link>https://www.t3cnologility.com/</link>
+      <description>Logo T3cnologility.com</description>
+    </image>
+    <item>
+      <title>Conectividad Inteligente</title>
+      <link>https://www.t3cnologility.com/IntelligentConectivityNews</link>
+      <description>Novedades sobre servicios de telecomunicaciones que emprenden soluciones novedosas</description>
+      <author>Britney.Spears23@gmail.com</author>
+      <category domain="https://www.t3cnologility.com/IntelligentConectivityNews">Novedades en los servicios de las telecomunicaciones</category>
+      <guid isPermaLink="false">22C1B61E-A00B-4F45-AB72-2F95F9C1C656</guid>
+      <pubDate>Tue, 29 Apr 2025 16:40:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ciber-seguridad</title>
+      <link>https://www.t3cnologility.com/TheCyber-securityActivityNews</link>
+      <description>Nuevos artículos sobre cómo proteger su información digital, dispositivos y activos</description>
+      <author>Paul.Mckarney@gmail.com</author>
+      <category domain="https://www.t3cnologility.com/TheCyber-securityActivityNews">Novedades en el campo de la Ciber-seguridad</category>
+      <guid isPermaLink="false">167A5D8F-1DA9-46E0-A6A4-25D7A0C20A1A</guid>
+      <pubDate>Tue, 29 Apr 2025 16:23:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Robótica</title>
+      <link>https://www.t3cnologility.com/AutomatedRobosNews</link>
+      <description>Nuevos diseños y construcciones de robots capaces de realizar tareas automatizadas</description>
+      <author>Mathew12a@gmail.com</author>
+      <category domain="https://www.t3cnologility.com/AutomatedRobosNews">Robótica Automatizada</category>
+      <guid isPermaLink="false">4A82433F-4BE2-4F78-B6CB-5114AD38B8FA</guid>
+      <pubDate>Tue, 29 Apr 2025 16:11:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fotónica</title>
+      <link>https://www.t3cnologility.com/PhotonicEnergy</link>
+      <description>Nuevos dispositivos y sistemas que utilizan fotones para transmitir información</description>
+      <author>Spielberg345@gmail.com</author>
+      <category domain="https://www.t3cnologility.com/PhotonicEnergy">La Informática de los fotones</category>
+      <guid isPermaLink="false">5AF3861F-660C-4B88-8C7F-FE682C2C1519</guid>
+      <pubDate>Tue, 29 Apr 2025 16:02:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>Supercomputación</title>
+      <link>https://www.t3cnologility.com/Supercomputation</link>
+      <description>Novedades y nuevos descubrimientos en avances de  la supercomputación</description>
+      <author>Riebens.31@gmail.com</author>
+      <category domain="https://www.t3cnologility.com/Supercomputation">El mundo de la Supercomputación</category>
+      <guid isPermaLink="false">BF9F02DE-5378-46AC-B67B-2AF783F19255</guid>
+      <pubDate>Tue, 29 Apr 2025 16:01:30 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
